@@ -13,6 +13,7 @@ this repository is my PHP Library. use PHP 7.4.9
 
 #### Ex.1
 ##### Input
+入力は以下の形式で与えられます（文字ごとに半角スペースがあります）。
 Input is given from Standard Input in the following format:
 ```
 1 2 3 //array(each value is separated by whitespace)
@@ -127,7 +128,7 @@ a 1 b
 ##### Input
 ```
 1 2 3 4   //array(each value is separated by whitespace)
-2         //select 2 values from array
+3         //select 3 values from array
 ```
 
 ##### Output
