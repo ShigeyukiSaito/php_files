@@ -14,6 +14,7 @@ this repository is my PHP Library. use PHP 7.4.9
 #### Ex.1
 ##### Input
 入力は以下の形式で与えられます（文字ごとに半角スペースがあります）。
+<br>
 Input is given from Standard Input in the following format:
 ```
 1 2 3 //array(each value is separated by whitespace)
